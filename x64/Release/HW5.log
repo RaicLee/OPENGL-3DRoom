@@ -1,0 +1,214 @@
+﻿  Camera.cpp
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(54): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(72): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(119): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(120): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(137): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(138): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(139): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(159): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(171): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(175): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(190): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(197): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(204): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(46): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(71): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(123): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(150): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(311): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(351): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(54): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(55): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(60): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(61): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(62): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(94): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(59): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(65): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(110): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(111): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(112): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(115): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(116): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(117): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(120): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(121): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(122): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(169): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(170): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\camera.cpp(74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\camera.cpp(154): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(54): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(72): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(119): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(120): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(137): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(138): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(139): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(159): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(171): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(175): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(190): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(197): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\vectors.hpp(204): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(46): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(71): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(123): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(150): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(311): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\matrix.hpp(351): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(54): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(55): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(60): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(61): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(62): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\quaternion.hpp(94): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(59): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(65): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(110): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(111): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(112): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(115): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(116): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(117): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(120): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(121): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(122): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(169): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\arcball.hpp(170): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(67): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(86): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(87): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(88): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(91): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(71): warning C4101: 'tam_pas' :참조되지 않은 지역 변수입니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(94): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(95): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(96): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(98): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(99): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(100): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(110): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(125): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(127): warning C4244: '=': 'float'에서 'GLubyte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(128): warning C4244: '=': 'float'에서 'GLubyte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(129): warning C4244: '=': 'float'에서 'GLubyte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(106): warning C4101: 'color' :참조되지 않은 지역 변수입니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(146): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(147): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(287): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(287): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(288): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(298): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(299): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(300): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(308): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(308): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(309): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(318): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(318): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(319): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(328): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(328): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(329): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(338): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(338): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(348): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(348): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(349): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(358): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(358): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(359): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(368): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(369): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(378): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(378): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(379): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(380): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(388): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(388): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(389): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(398): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(398): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(399): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(400): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(408): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(408): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(409): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(410): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(418): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(419): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(420): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(428): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(428): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(429): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(430): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(444): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(445): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(446): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(458): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(470): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(695): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(748): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(764): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(765): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(777): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(779): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(794): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(864): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(881): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(886): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(886): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(904): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(912): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(921): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(932): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(955): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(990): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(993): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(995): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(998): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1000): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1005): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1007): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1010): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1012): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1015): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1017): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1023): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1025): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1028): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1030): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1032): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1034): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1036): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1038): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1100): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1215): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1220): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1251): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1255): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1264): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1266): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1309): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1311): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1632): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1632): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1633): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1633): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1634): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1634): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1896): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1903): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1910): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(1919): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(162): warning C4172: 지역 변수 또는 임시: result의 주소를 반환하고 있습니다.
+c:\users\raix\source\repos\hw5\hw5\main.cpp(169): warning C4172: 지역 변수 또는 임시: result의 주소를 반환하고 있습니다.
+  All 451 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  HW5.vcxproj -> C:\Users\RAIX\source\repos\HW5\x64\Release\HW5.exe
